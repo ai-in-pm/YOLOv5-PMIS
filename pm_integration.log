@@ -1,0 +1,60 @@
+2025-04-23 08:15:21,204 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 08:15:21,217 - msproject_detection - INFO - OCR support is available
+2025-04-23 08:15:21,217 - msproject_detection - INFO - Starting Microsoft Project Detection Tool
+2025-04-23 08:15:21,218 - msproject_detection - WARNING - Tesseract not found. OCR may not work properly.
+2025-04-23 08:15:21,218 - msproject_detection - INFO - Initializing detector with model: msproject_model.pt
+2025-04-23 08:15:21,219 - msproject_detector - WARNING - Specialized model not found, using yolov5s.pt instead.
+2025-04-23 08:15:24,146 - pm_integration - INFO - Model initialized: C:\CC-WorkingDir\yolov5-master\yolov5-master\yolov5s.pt
+2025-04-23 08:15:24,177 - ocr_utils - WARNING - Tesseract is installed but not working properly: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-23 08:15:24,179 - msproject_detector - INFO - OCR processor initialized
+2025-04-23 08:15:24,181 - msproject_detection - INFO - Starting Microsoft Project...
+2025-04-23 08:15:24,183 - pm_integration - INFO - Starting Microsoft Project from C:\Program Files\Microsoft Office\root\Office16\WINPROJ.EXE...
+2025-04-23 08:15:24,252 - pm_integration - INFO - Waiting for Microsoft Project to start...
+2025-04-23 08:15:29,256 - msproject_detection - INFO - Waiting for application to start...
+2025-04-23 08:15:34,259 - msproject_detection - INFO - Detecting project elements...
+2025-04-23 08:15:34,261 - msproject_detector - INFO - Capturing MS Project view...
+2025-04-23 08:15:34,302 - msproject_detector - WARNING - MS Project window not found
+2025-04-23 08:15:34,305 - msproject_detector - WARNING - Failed to focus MS Project window. Capture may include other windows.
+2025-04-23 08:15:35,309 - msproject_detector - INFO - Capturing screenshot...
+2025-04-23 08:15:35,437 - msproject_detector - INFO - Screenshot captured: (1080, 1920, 3)
+2025-04-23 08:15:35,437 - msproject_detector - INFO - Running object detection...
+2025-04-23 08:15:35,588 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 08:15:35,589 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_081535.jpg
+2025-04-23 08:15:35,605 - msproject_detector - INFO - Applying OCR to detected elements...
+2025-04-23 08:15:35,605 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 08:15:35,606 - msproject_detector - INFO - Processing 0 detections...
+2025-04-23 08:15:35,606 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 08:15:35,606 - msproject_detector - INFO - Extracted project data from 0 detections:
+2025-04-23 08:15:35,607 - msproject_detector - INFO -   - tasks: 0 items
+2025-04-23 08:15:35,607 - msproject_detector - INFO -   - milestones: 0 items
+2025-04-23 08:15:35,608 - msproject_detector - INFO -   - resources: 0 items
+2025-04-23 08:15:35,608 - msproject_detector - INFO -   - dependencies: 0 items
+2025-04-23 08:15:35,609 - msproject_detector - INFO -   - critical_path: 0 items
+2025-04-23 08:15:35,609 - msproject_detector - INFO -   - summary: 0 items
+2025-04-23 08:15:35,609 - msproject_detector - INFO -   - constraints: 0 items
+2025-04-23 08:15:35,611 - msproject_detector - INFO -   - deadlines: 0 items
+2025-04-23 08:15:35,613 - msproject_detector - INFO -   - baselines: 0 items
+2025-04-23 08:15:35,614 - msproject_detection - INFO - Detected 0 elements
+2025-04-23 08:15:35,614 - msproject_detection - INFO - Generating project report...
+2025-04-23 08:15:35,614 - msproject_detector - INFO - Capturing MS Project view...
+2025-04-23 08:15:35,615 - msproject_detector - WARNING - MS Project window not found
+2025-04-23 08:15:35,616 - msproject_detector - WARNING - Failed to focus MS Project window. Capture may include other windows.
+2025-04-23 08:15:36,616 - msproject_detector - INFO - Capturing screenshot...
+2025-04-23 08:15:36,668 - msproject_detector - INFO - Screenshot captured: (1080, 1920, 3)
+2025-04-23 08:15:36,669 - msproject_detector - INFO - Running object detection...
+2025-04-23 08:15:36,797 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 08:15:36,797 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_081536.jpg
+2025-04-23 08:15:36,811 - msproject_detector - INFO - Applying OCR to detected elements...
+2025-04-23 08:15:36,812 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 08:15:36,812 - msproject_detector - INFO - Processing 0 detections...
+2025-04-23 08:15:36,812 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 08:15:36,813 - msproject_detector - INFO - Extracted project data from 0 detections:
+2025-04-23 08:15:36,813 - msproject_detector - INFO -   - tasks: 0 items
+2025-04-23 08:15:36,813 - msproject_detector - INFO -   - milestones: 0 items
+2025-04-23 08:15:36,814 - msproject_detector - INFO -   - resources: 0 items
+2025-04-23 08:15:36,814 - msproject_detector - INFO -   - dependencies: 0 items
+2025-04-23 08:15:36,814 - msproject_detector - INFO -   - critical_path: 0 items
+2025-04-23 08:15:36,814 - msproject_detector - INFO -   - summary: 0 items
+2025-04-23 08:15:36,815 - msproject_detector - INFO -   - constraints: 0 items
+2025-04-23 08:15:36,815 - msproject_detector - INFO -   - deadlines: 0 items
+2025-04-23 08:15:36,815 - msproject_detector - INFO -   - baselines: 0 items

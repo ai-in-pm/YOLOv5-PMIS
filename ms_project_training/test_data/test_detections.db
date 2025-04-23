@@ -1,0 +1,46 @@
+-- This is a SQLite database file with sample detection data
+-- Created for testing the cross-validation system
+
+-- Create tasks table
+CREATE TABLE IF NOT EXISTS tasks (
+    id INTEGER PRIMARY KEY,
+    name TEXT,
+    start_date TEXT,
+    end_date TEXT,
+    duration TEXT,
+    status TEXT
+);
+
+-- Create resources table
+CREATE TABLE IF NOT EXISTS resources (
+    id INTEGER PRIMARY KEY,
+    name TEXT,
+    type TEXT,
+    cost REAL,
+    work TEXT
+);
+
+-- Create assignments table
+CREATE TABLE IF NOT EXISTS assignments (
+    task_id INTEGER,
+    resource_id INTEGER,
+    units TEXT,
+    work TEXT,
+    cost REAL,
+    PRIMARY KEY (task_id, resource_id)
+);
+
+-- Insert sample task data
+INSERT INTO tasks (id, name, start_date, end_date, duration, status) VALUES
+(1, 'Task 1', '2025-04-22T09:00:00', '2025-04-22T17:00:00', '8h', 'Not Started'),
+(2, 'Task 2', '2025-04-23T09:00:00', '2025-04-23T17:00:00', '8h', 'Not Started');
+
+-- Insert sample resource data
+INSERT INTO resources (id, name, type, cost, work) VALUES
+(1, 'Resource 1', 'Work', 100.00, '8h'),
+(2, 'Resource 2', 'Work', 150.00, '8h');
+
+-- Insert sample assignment data
+INSERT INTO assignments (task_id, resource_id, units, work, cost) VALUES
+(1, 1, '100%', '8h', 100.00),
+(2, 2, '100%', '8h', 150.00);

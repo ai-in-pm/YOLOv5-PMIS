@@ -1,0 +1,1013 @@
+2025-04-23 09:54:18,933 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 09:54:18,949 - msproject_realtime - INFO - Microsoft Project detector imported successfully
+2025-04-23 09:54:18,951 - msproject_direct_detection - INFO - Microsoft Project real-time detector imported successfully
+2025-04-23 09:57:43,707 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 09:57:43,737 - msproject_realtime - INFO - Microsoft Project detector imported successfully
+2025-04-23 09:57:43,739 - msproject_direct_detection - INFO - Microsoft Project real-time detector imported successfully
+2025-04-23 09:57:43,748 - msproject_realtime - INFO - Using default model path: msproject_model.pt
+2025-04-23 09:57:43,750 - msproject_detector - WARNING - Specialized model not found, using yolov5s.pt instead.
+2025-04-23 09:57:46,867 - pm_integration - INFO - Model initialized: C:\CC-WorkingDir\yolov5-master\yolov5-master\yolov5s.pt
+2025-04-23 09:57:46,878 - ocr_utils - WARNING - Tesseract is installed but not working properly: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-23 09:57:46,880 - msproject_detector - INFO - OCR processor initialized
+2025-04-23 09:57:46,880 - msproject_realtime - INFO - Microsoft Project detector initialized
+2025-04-23 09:57:46,881 - msproject_direct_detection - INFO - Starting Microsoft Project...
+2025-04-23 09:57:46,882 - pm_integration - INFO - Starting Microsoft Project from C:\Program Files\Microsoft Office\root\Office16\WINPROJ.EXE...
+2025-04-23 09:57:46,936 - pm_integration - INFO - Waiting for Microsoft Project to start...
+2025-04-23 09:57:56,940 - msproject_realtime - INFO - Starting real-time detection in Microsoft Project
+2025-04-23 09:57:56,944 - msproject_realtime - INFO - Found Microsoft Project window: Project Professional - Project1
+2025-04-23 09:57:56,945 - msproject_realtime - INFO - Window position: (-11, -11, 1931, 1019)
+2025-04-23 09:57:57,057 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:57:57,245 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:57:57,245 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095757.jpg
+2025-04-23 09:57:57,261 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:57:57,261 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:57,262 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:57,264 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095757_20250423_095757.json
+2025-04-23 09:57:57,281 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095757_20250423_095757.jpg
+2025-04-23 09:57:57,622 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:57:57,769 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:57:57,778 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095757.jpg
+2025-04-23 09:57:57,803 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:57:57,819 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:57,854 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:57,860 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095757_20250423_095757.json
+2025-04-23 09:57:57,882 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095757_20250423_095757.jpg
+2025-04-23 09:57:58,073 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:57:58,215 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:57:58,216 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095758.jpg
+2025-04-23 09:57:58,229 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:57:58,230 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:58,230 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:58,232 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095758_20250423_095758.json
+2025-04-23 09:57:58,252 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095758_20250423_095758.jpg
+2025-04-23 09:57:58,562 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:57:58,697 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:57:58,697 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095758.jpg
+2025-04-23 09:57:58,709 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:57:58,710 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:58,710 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:58,711 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095758_20250423_095758.json
+2025-04-23 09:57:58,728 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095758_20250423_095758.jpg
+2025-04-23 09:57:59,083 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:57:59,219 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:57:59,220 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095759.jpg
+2025-04-23 09:57:59,232 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:57:59,233 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:59,233 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:59,236 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095759_20250423_095759.json
+2025-04-23 09:57:59,255 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095759_20250423_095759.jpg
+2025-04-23 09:57:59,565 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:57:59,696 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:57:59,698 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095759.jpg
+2025-04-23 09:57:59,710 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:57:59,711 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:59,712 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:57:59,717 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095759_20250423_095759.json
+2025-04-23 09:57:59,735 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095759_20250423_095759.jpg
+2025-04-23 09:58:00,059 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:00,140 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:00,141 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095800.jpg
+2025-04-23 09:58:00,153 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:00,153 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:00,153 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:00,155 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095800_20250423_095800.json
+2025-04-23 09:58:00,168 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095800_20250423_095800.jpg
+2025-04-23 09:58:00,568 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:00,649 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:00,651 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095800.jpg
+2025-04-23 09:58:00,664 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:00,664 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:00,664 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:00,666 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095800_20250423_095800.json
+2025-04-23 09:58:00,681 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095800_20250423_095800.jpg
+2025-04-23 09:58:01,055 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:01,136 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:01,137 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095801.jpg
+2025-04-23 09:58:01,151 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:01,152 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:01,156 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:01,158 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095801_20250423_095801.json
+2025-04-23 09:58:01,171 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095801_20250423_095801.jpg
+2025-04-23 09:58:01,554 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:01,696 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:01,696 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095801.jpg
+2025-04-23 09:58:01,710 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:01,717 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:01,717 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:01,720 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095801_20250423_095801.json
+2025-04-23 09:58:01,737 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095801_20250423_095801.jpg
+2025-04-23 09:58:02,060 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:02,235 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:02,242 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095802.jpg
+2025-04-23 09:58:02,257 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:02,258 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:02,258 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:02,260 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095802_20250423_095802.json
+2025-04-23 09:58:02,281 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095802_20250423_095802.jpg
+2025-04-23 09:58:02,565 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:02,698 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:02,698 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095802.jpg
+2025-04-23 09:58:02,714 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:02,714 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:02,715 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:02,717 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095802_20250423_095802.json
+2025-04-23 09:58:02,732 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095802_20250423_095802.jpg
+2025-04-23 09:58:03,061 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:03,139 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:03,140 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095803.jpg
+2025-04-23 09:58:03,153 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:03,153 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:03,153 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:03,155 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095803_20250423_095803.json
+2025-04-23 09:58:03,170 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095803_20250423_095803.jpg
+2025-04-23 09:58:03,557 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:03,631 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:03,632 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095803.jpg
+2025-04-23 09:58:03,645 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:03,645 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:03,646 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:03,647 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095803_20250423_095803.json
+2025-04-23 09:58:03,661 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095803_20250423_095803.jpg
+2025-04-23 09:58:04,059 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:04,134 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:04,134 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095804.jpg
+2025-04-23 09:58:04,149 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:04,150 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:04,150 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:04,152 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095804_20250423_095804.json
+2025-04-23 09:58:04,166 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095804_20250423_095804.jpg
+2025-04-23 09:58:04,573 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:04,708 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:04,708 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095804.jpg
+2025-04-23 09:58:04,721 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:04,722 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:04,724 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:04,725 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095804_20250423_095804.json
+2025-04-23 09:58:04,741 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095804_20250423_095804.jpg
+2025-04-23 09:58:05,054 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:05,186 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:05,187 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095805.jpg
+2025-04-23 09:58:05,199 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:05,199 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:05,199 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:05,200 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095805_20250423_095805.json
+2025-04-23 09:58:05,213 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095805_20250423_095805.jpg
+2025-04-23 09:58:05,557 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:05,683 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:05,684 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095805.jpg
+2025-04-23 09:58:05,696 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:05,696 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:05,697 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:05,698 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095805_20250423_095805.json
+2025-04-23 09:58:05,711 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095805_20250423_095805.jpg
+2025-04-23 09:58:06,073 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:06,201 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:06,201 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095806.jpg
+2025-04-23 09:58:06,215 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:06,215 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:06,215 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:06,216 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095806_20250423_095806.json
+2025-04-23 09:58:06,230 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095806_20250423_095806.jpg
+2025-04-23 09:58:06,565 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:06,644 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:06,644 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095806.jpg
+2025-04-23 09:58:06,660 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:06,660 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:06,660 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:06,661 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095806_20250423_095806.json
+2025-04-23 09:58:06,675 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095806_20250423_095806.jpg
+2025-04-23 09:58:07,064 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:07,147 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:07,147 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095807.jpg
+2025-04-23 09:58:07,161 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:07,161 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:07,163 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:07,164 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095807_20250423_095807.json
+2025-04-23 09:58:07,177 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095807_20250423_095807.jpg
+2025-04-23 09:58:07,557 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:07,635 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:07,636 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095807.jpg
+2025-04-23 09:58:07,648 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:07,648 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:07,649 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:07,650 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095807_20250423_095807.json
+2025-04-23 09:58:07,665 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095807_20250423_095807.jpg
+2025-04-23 09:58:08,061 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:08,161 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:08,162 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095808.jpg
+2025-04-23 09:58:08,175 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:08,176 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:08,176 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:08,177 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095808_20250423_095808.json
+2025-04-23 09:58:08,191 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095808_20250423_095808.jpg
+2025-04-23 09:58:08,567 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:08,700 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:08,700 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095808.jpg
+2025-04-23 09:58:08,713 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:08,713 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:08,714 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:08,715 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095808_20250423_095808.json
+2025-04-23 09:58:08,728 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095808_20250423_095808.jpg
+2025-04-23 09:58:09,081 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:09,222 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:09,223 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095809.jpg
+2025-04-23 09:58:09,236 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:09,237 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:09,238 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:09,239 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095809_20250423_095809.json
+2025-04-23 09:58:09,257 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095809_20250423_095809.jpg
+2025-04-23 09:58:09,583 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:09,712 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:09,712 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095809.jpg
+2025-04-23 09:58:09,731 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:09,731 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:09,732 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:09,738 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095809_20250423_095809.json
+2025-04-23 09:58:09,767 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095809_20250423_095809.jpg
+2025-04-23 09:58:10,164 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:10,292 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:10,294 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095810.jpg
+2025-04-23 09:58:10,320 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:10,333 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:10,338 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:10,364 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095810_20250423_095810.json
+2025-04-23 09:58:10,438 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095810_20250423_095810.jpg
+2025-04-23 09:58:10,925 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:11,087 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:11,088 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095811.jpg
+2025-04-23 09:58:11,113 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:11,127 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:11,128 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:11,135 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095811_20250423_095811.json
+2025-04-23 09:58:11,159 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095811_20250423_095811.jpg
+2025-04-23 09:58:11,438 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:11,610 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:11,612 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095811.jpg
+2025-04-23 09:58:11,632 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:11,635 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:11,642 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:11,663 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095811_20250423_095811.json
+2025-04-23 09:58:11,695 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095811_20250423_095811.jpg
+2025-04-23 09:58:11,988 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:12,191 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:12,199 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095812.jpg
+2025-04-23 09:58:12,229 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:12,231 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:12,234 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:12,269 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095812_20250423_095812.json
+2025-04-23 09:58:12,301 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095812_20250423_095812.jpg
+2025-04-23 09:58:12,519 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:12,758 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:12,769 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095812.jpg
+2025-04-23 09:58:12,822 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:12,823 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:12,826 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:12,828 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095812_20250423_095812.json
+2025-04-23 09:58:12,853 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095812_20250423_095812.jpg
+2025-04-23 09:58:13,038 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:13,189 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:13,190 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095813.jpg
+2025-04-23 09:58:13,209 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:13,212 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:13,212 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:13,214 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095813_20250423_095813.json
+2025-04-23 09:58:13,232 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095813_20250423_095813.jpg
+2025-04-23 09:58:13,559 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:13,711 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:13,713 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095813.jpg
+2025-04-23 09:58:13,729 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:13,731 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:13,733 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:13,734 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095813_20250423_095813.json
+2025-04-23 09:58:13,753 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095813_20250423_095813.jpg
+2025-04-23 09:58:14,071 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:14,238 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:14,243 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095814.jpg
+2025-04-23 09:58:14,258 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:14,262 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:14,264 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:14,266 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095814_20250423_095814.json
+2025-04-23 09:58:14,284 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095814_20250423_095814.jpg
+2025-04-23 09:58:14,516 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:14,652 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:14,660 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095814.jpg
+2025-04-23 09:58:14,688 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:14,689 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:14,692 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:14,696 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095814_20250423_095814.json
+2025-04-23 09:58:14,715 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095814_20250423_095814.jpg
+2025-04-23 09:58:15,011 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:15,096 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:15,097 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095815.jpg
+2025-04-23 09:58:15,111 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:15,117 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:15,120 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:15,127 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095815_20250423_095815.json
+2025-04-23 09:58:15,145 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095815_20250423_095815.jpg
+2025-04-23 09:58:15,524 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:15,616 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:15,619 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095815.jpg
+2025-04-23 09:58:15,633 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:15,639 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:15,641 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:15,643 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095815_20250423_095815.json
+2025-04-23 09:58:15,661 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095815_20250423_095815.jpg
+2025-04-23 09:58:16,162 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:16,549 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:16,600 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095816.jpg
+2025-04-23 09:58:16,682 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:16,690 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:16,716 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:16,736 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095816_20250423_095816.json
+2025-04-23 09:58:16,777 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095816_20250423_095816.jpg
+2025-04-23 09:58:17,158 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:17,330 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:17,331 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095817.jpg
+2025-04-23 09:58:17,344 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:17,358 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:17,366 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:17,393 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095817_20250423_095817.json
+2025-04-23 09:58:17,419 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095817_20250423_095817.jpg
+2025-04-23 09:58:17,585 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:17,732 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:17,733 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095817.jpg
+2025-04-23 09:58:17,748 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:17,757 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:17,761 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:17,775 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095817_20250423_095817.json
+2025-04-23 09:58:17,806 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095817_20250423_095817.jpg
+2025-04-23 09:58:18,138 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:18,290 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:18,300 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095818.jpg
+2025-04-23 09:58:18,328 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:18,328 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:18,334 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:18,337 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095818_20250423_095818.json
+2025-04-23 09:58:18,356 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095818_20250423_095818.jpg
+2025-04-23 09:58:18,620 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:18,746 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:18,762 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095818.jpg
+2025-04-23 09:58:18,809 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:18,810 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:18,816 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:18,819 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095818_20250423_095818.json
+2025-04-23 09:58:18,845 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095818_20250423_095818.jpg
+2025-04-23 09:58:19,095 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:19,221 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:19,223 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095819.jpg
+2025-04-23 09:58:19,238 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:19,241 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:19,242 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:19,244 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095819_20250423_095819.json
+2025-04-23 09:58:19,283 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095819_20250423_095819.jpg
+2025-04-23 09:58:19,569 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:19,680 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:19,680 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095819.jpg
+2025-04-23 09:58:19,695 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:19,695 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:19,695 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:19,697 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095819_20250423_095819.json
+2025-04-23 09:58:19,718 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095819_20250423_095819.jpg
+2025-04-23 09:58:20,068 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:20,234 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:20,243 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095820.jpg
+2025-04-23 09:58:20,352 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:20,372 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:20,384 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:20,451 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095820_20250423_095820.json
+2025-04-23 09:58:20,628 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095820_20250423_095820.jpg
+2025-04-23 09:58:20,916 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:21,103 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:21,110 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095821.jpg
+2025-04-23 09:58:21,190 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:21,201 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:21,229 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:21,238 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095821_20250423_095821.json
+2025-04-23 09:58:21,340 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095821_20250423_095821.jpg
+2025-04-23 09:58:21,649 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:21,828 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:21,829 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095821.jpg
+2025-04-23 09:58:21,843 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:21,844 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:21,844 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:21,846 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095821_20250423_095821.json
+2025-04-23 09:58:21,865 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095821_20250423_095821.jpg
+2025-04-23 09:58:22,018 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:22,165 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:22,166 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095822.jpg
+2025-04-23 09:58:22,180 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:22,181 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:22,182 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:22,184 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095822_20250423_095822.json
+2025-04-23 09:58:22,205 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095822_20250423_095822.jpg
+2025-04-23 09:58:22,519 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 09:58:22,667 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:58:22,668 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_095822.jpg
+2025-04-23 09:58:22,682 - msproject_realtime - INFO - Applying OCR to detected elements...
+2025-04-23 09:58:22,682 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:22,683 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:58:22,684 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095822_20250423_095822.json
+2025-04-23 09:58:22,699 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_095822_20250423_095822.jpg
+2025-04-23 10:34:07,266 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 10:34:07,282 - msproject_realtime - INFO - Microsoft Project detector imported successfully
+2025-04-23 10:34:07,283 - msproject_direct_detection - INFO - Microsoft Project real-time detector imported successfully
+2025-04-23 10:34:07,291 - msproject_realtime - INFO - Using default model path: msproject_model.pt
+2025-04-23 10:34:07,292 - msproject_detector - WARNING - Specialized model not found, using yolov5s.pt instead.
+2025-04-23 10:34:15,955 - pm_integration - INFO - Model initialized: C:\CC-WorkingDir\yolov5-master\yolov5-master\yolov5s.pt
+2025-04-23 10:34:15,970 - ocr_utils - WARNING - Tesseract is installed but not working properly: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-23 10:34:15,971 - msproject_detector - INFO - OCR processor initialized
+2025-04-23 10:34:15,972 - msproject_realtime - INFO - Microsoft Project detector initialized
+2025-04-23 10:34:15,973 - msproject_direct_detection - INFO - Starting Microsoft Project...
+2025-04-23 10:34:15,973 - pm_integration - INFO - Starting Microsoft Project from C:\Program Files\Microsoft Office\root\Office16\WINPROJ.EXE...
+2025-04-23 10:34:16,060 - pm_integration - INFO - Waiting for Microsoft Project to start...
+2025-04-23 10:34:26,068 - msproject_realtime - INFO - Starting real-time detection in Microsoft Project
+2025-04-23 10:34:26,078 - msproject_realtime - INFO - Found Microsoft Project window: Project Professional - Project1
+2025-04-23 10:34:26,080 - msproject_realtime - INFO - Window position: (-11, -11, 1931, 1019)
+2025-04-23 10:34:26,558 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:26,846 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:26,847 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103426.jpg
+2025-04-23 10:34:26,861 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:26,861 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:26,864 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103426_20250423_103426.json
+2025-04-23 10:34:26,887 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103426_20250423_103426.jpg
+2025-04-23 10:34:27,460 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:27,623 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:27,623 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103427.jpg
+2025-04-23 10:34:27,640 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:27,651 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:27,669 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103427_20250423_103427.json
+2025-04-23 10:34:27,688 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103427_20250423_103427.jpg
+2025-04-23 10:34:28,080 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:28,148 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:28,149 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103428.jpg
+2025-04-23 10:34:28,162 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:28,163 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:28,164 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103428_20250423_103428.json
+2025-04-23 10:34:28,180 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103428_20250423_103428.jpg
+2025-04-23 10:34:28,512 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:28,615 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:28,617 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103428.jpg
+2025-04-23 10:34:28,631 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:28,632 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:28,634 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103428_20250423_103428.json
+2025-04-23 10:34:28,648 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103428_20250423_103428.jpg
+2025-04-23 10:34:29,050 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:29,137 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:29,137 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103429.jpg
+2025-04-23 10:34:29,152 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:29,153 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:29,154 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103429_20250423_103429.json
+2025-04-23 10:34:29,173 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103429_20250423_103429.jpg
+2025-04-23 10:34:29,559 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:29,633 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:29,633 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103429.jpg
+2025-04-23 10:34:29,652 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:29,652 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:29,653 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103429_20250423_103429.json
+2025-04-23 10:34:29,669 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103429_20250423_103429.jpg
+2025-04-23 10:34:30,069 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:30,150 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:30,150 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103430.jpg
+2025-04-23 10:34:30,167 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:30,169 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:30,170 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103430_20250423_103430.json
+2025-04-23 10:34:30,188 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103430_20250423_103430.jpg
+2025-04-23 10:34:30,718 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:30,903 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:30,904 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103430.jpg
+2025-04-23 10:34:30,922 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:30,922 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:30,924 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103430_20250423_103430.json
+2025-04-23 10:34:30,939 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103430_20250423_103430.jpg
+2025-04-23 10:34:31,273 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:31,354 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:31,354 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103431.jpg
+2025-04-23 10:34:31,367 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:31,368 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:31,370 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103431_20250423_103431.json
+2025-04-23 10:34:31,382 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103431_20250423_103431.jpg
+2025-04-23 10:34:31,790 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:31,862 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:31,862 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103431.jpg
+2025-04-23 10:34:31,878 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:31,879 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:31,881 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103431_20250423_103431.json
+2025-04-23 10:34:31,895 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103431_20250423_103431.jpg
+2025-04-23 10:34:32,314 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:32,392 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:32,393 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103432.jpg
+2025-04-23 10:34:32,412 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:32,413 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:32,414 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103432_20250423_103432.json
+2025-04-23 10:34:32,431 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103432_20250423_103432.jpg
+2025-04-23 10:34:32,800 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:32,874 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:32,875 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103432.jpg
+2025-04-23 10:34:32,889 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:32,890 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:32,891 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103432_20250423_103432.json
+2025-04-23 10:34:32,906 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103432_20250423_103432.jpg
+2025-04-23 10:34:33,313 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:33,400 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:33,401 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103433.jpg
+2025-04-23 10:34:33,417 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:33,417 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:33,418 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103433_20250423_103433.json
+2025-04-23 10:34:33,433 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103433_20250423_103433.jpg
+2025-04-23 10:34:33,811 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:33,884 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:33,885 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103433.jpg
+2025-04-23 10:34:33,903 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:33,904 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:33,906 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103433_20250423_103433.json
+2025-04-23 10:34:33,924 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103433_20250423_103433.jpg
+2025-04-23 10:34:34,327 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:34,414 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:34,415 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103434.jpg
+2025-04-23 10:34:34,435 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:34,436 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:34,438 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103434_20250423_103434.json
+2025-04-23 10:34:34,454 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103434_20250423_103434.jpg
+2025-04-23 10:34:34,809 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:34,885 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:34,885 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103434.jpg
+2025-04-23 10:34:34,901 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:34,901 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:34,903 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103434_20250423_103434.json
+2025-04-23 10:34:34,919 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103434_20250423_103434.jpg
+2025-04-23 10:34:35,306 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:35,399 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:35,399 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103435.jpg
+2025-04-23 10:34:35,412 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:35,412 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:35,414 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103435_20250423_103435.json
+2025-04-23 10:34:35,430 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103435_20250423_103435.jpg
+2025-04-23 10:34:35,804 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:35,882 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:35,882 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103435.jpg
+2025-04-23 10:34:35,899 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:35,900 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:35,904 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103435_20250423_103435.json
+2025-04-23 10:34:35,925 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103435_20250423_103435.jpg
+2025-04-23 10:34:36,349 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:36,422 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:36,425 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103436.jpg
+2025-04-23 10:34:36,443 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:36,443 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:36,445 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103436_20250423_103436.json
+2025-04-23 10:34:36,462 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103436_20250423_103436.jpg
+2025-04-23 10:34:36,885 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:36,957 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:36,957 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103436.jpg
+2025-04-23 10:34:36,972 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:36,972 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:36,974 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103436_20250423_103436.json
+2025-04-23 10:34:36,987 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103436_20250423_103436.jpg
+2025-04-23 10:34:37,352 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:37,446 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:37,447 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103437.jpg
+2025-04-23 10:34:37,462 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:37,463 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:37,466 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103437_20250423_103437.json
+2025-04-23 10:34:37,482 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103437_20250423_103437.jpg
+2025-04-23 10:34:37,822 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:37,911 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:37,912 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103437.jpg
+2025-04-23 10:34:37,928 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:37,929 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:37,931 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103437_20250423_103437.json
+2025-04-23 10:34:37,948 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103437_20250423_103437.jpg
+2025-04-23 10:34:38,360 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:38,467 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:38,468 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103438.jpg
+2025-04-23 10:34:38,488 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:38,488 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:38,490 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103438_20250423_103438.json
+2025-04-23 10:34:38,507 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103438_20250423_103438.jpg
+2025-04-23 10:34:38,886 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:39,012 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:39,024 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103438.jpg
+2025-04-23 10:34:39,091 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:39,094 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:39,097 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103439_20250423_103439.json
+2025-04-23 10:34:39,121 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103439_20250423_103439.jpg
+2025-04-23 10:34:39,473 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:39,565 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:39,566 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103439.jpg
+2025-04-23 10:34:39,595 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:39,597 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:39,599 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103439_20250423_103439.json
+2025-04-23 10:34:39,620 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103439_20250423_103439.jpg
+2025-04-23 10:34:39,967 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:40,046 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:40,047 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103440.jpg
+2025-04-23 10:34:40,062 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:40,063 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:40,065 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103440_20250423_103440.json
+2025-04-23 10:34:40,085 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103440_20250423_103440.jpg
+2025-04-23 10:34:40,484 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:40,573 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:40,574 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103440.jpg
+2025-04-23 10:34:40,619 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:40,624 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:40,626 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103440_20250423_103440.json
+2025-04-23 10:34:40,644 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103440_20250423_103440.jpg
+2025-04-23 10:34:40,997 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:41,147 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:41,150 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103441.jpg
+2025-04-23 10:34:41,176 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:41,178 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:41,181 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103441_20250423_103441.json
+2025-04-23 10:34:41,217 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103441_20250423_103441.jpg
+2025-04-23 10:34:41,608 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:41,715 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:41,717 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103441.jpg
+2025-04-23 10:34:41,737 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:41,739 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:41,741 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103441_20250423_103441.json
+2025-04-23 10:34:41,761 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103441_20250423_103441.jpg
+2025-04-23 10:34:42,130 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:42,239 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:42,240 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103442.jpg
+2025-04-23 10:34:42,258 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:42,258 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:42,260 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103442_20250423_103442.json
+2025-04-23 10:34:42,278 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103442_20250423_103442.jpg
+2025-04-23 10:34:42,627 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:42,730 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:42,731 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103442.jpg
+2025-04-23 10:34:42,757 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:42,758 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:42,759 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103442_20250423_103442.json
+2025-04-23 10:34:42,776 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103442_20250423_103442.jpg
+2025-04-23 10:34:43,141 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:43,261 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:43,261 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103443.jpg
+2025-04-23 10:34:43,286 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:43,289 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:43,291 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103443_20250423_103443.json
+2025-04-23 10:34:43,312 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103443_20250423_103443.jpg
+2025-04-23 10:34:43,662 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:43,773 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:43,773 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103443.jpg
+2025-04-23 10:34:43,786 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:43,787 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:43,789 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103443_20250423_103443.json
+2025-04-23 10:34:43,808 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103443_20250423_103443.jpg
+2025-04-23 10:34:44,187 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:44,259 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:44,260 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103444.jpg
+2025-04-23 10:34:44,276 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:44,277 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:44,279 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103444_20250423_103444.json
+2025-04-23 10:34:44,302 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103444_20250423_103444.jpg
+2025-04-23 10:34:44,669 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:44,809 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:44,818 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103444.jpg
+2025-04-23 10:34:44,840 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:44,841 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:44,843 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103444_20250423_103444.json
+2025-04-23 10:34:44,861 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103444_20250423_103444.jpg
+2025-04-23 10:34:45,239 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:45,340 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:45,341 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103445.jpg
+2025-04-23 10:34:45,359 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:45,361 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:45,363 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103445_20250423_103445.json
+2025-04-23 10:34:45,427 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103445_20250423_103445.jpg
+2025-04-23 10:34:45,861 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:45,982 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:45,983 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103445.jpg
+2025-04-23 10:34:45,999 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:46,000 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:46,002 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103446_20250423_103446.json
+2025-04-23 10:34:46,021 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103446_20250423_103446.jpg
+2025-04-23 10:34:46,385 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:46,467 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:46,469 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103446.jpg
+2025-04-23 10:34:46,486 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:46,486 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:46,488 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103446_20250423_103446.json
+2025-04-23 10:34:46,504 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103446_20250423_103446.jpg
+2025-04-23 10:34:46,865 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:46,975 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:46,980 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103446.jpg
+2025-04-23 10:34:47,015 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:47,021 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:47,029 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103447_20250423_103447.json
+2025-04-23 10:34:47,072 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103447_20250423_103447.jpg
+2025-04-23 10:34:47,419 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:47,516 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:47,517 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103447.jpg
+2025-04-23 10:34:47,531 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:47,532 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:47,535 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103447_20250423_103447.json
+2025-04-23 10:34:47,553 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103447_20250423_103447.jpg
+2025-04-23 10:34:47,926 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:48,053 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:48,054 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103448.jpg
+2025-04-23 10:34:48,070 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:48,071 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:48,073 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103448_20250423_103448.json
+2025-04-23 10:34:48,104 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103448_20250423_103448.jpg
+2025-04-23 10:34:48,468 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:48,564 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:48,565 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103448.jpg
+2025-04-23 10:34:48,586 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:48,587 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:48,590 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103448_20250423_103448.json
+2025-04-23 10:34:48,619 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103448_20250423_103448.jpg
+2025-04-23 10:34:48,974 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:49,050 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:49,051 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103449.jpg
+2025-04-23 10:34:49,065 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:49,065 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:49,067 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103449_20250423_103449.json
+2025-04-23 10:34:49,085 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103449_20250423_103449.jpg
+2025-04-23 10:34:49,475 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:49,563 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:49,563 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103449.jpg
+2025-04-23 10:34:49,579 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:49,579 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:49,581 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103449_20250423_103449.json
+2025-04-23 10:34:49,601 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103449_20250423_103449.jpg
+2025-04-23 10:34:49,944 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:50,036 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:50,037 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103450.jpg
+2025-04-23 10:34:50,057 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:50,058 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:50,059 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103450_20250423_103450.json
+2025-04-23 10:34:50,078 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103450_20250423_103450.jpg
+2025-04-23 10:34:50,432 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:50,501 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:50,501 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103450.jpg
+2025-04-23 10:34:50,515 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:50,516 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:50,517 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103450_20250423_103450.json
+2025-04-23 10:34:50,531 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103450_20250423_103450.jpg
+2025-04-23 10:34:51,007 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:51,077 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:51,078 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103451.jpg
+2025-04-23 10:34:51,095 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:51,096 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:51,098 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103451_20250423_103451.json
+2025-04-23 10:34:51,116 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103451_20250423_103451.jpg
+2025-04-23 10:34:51,482 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:51,567 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:51,568 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103451.jpg
+2025-04-23 10:34:51,583 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:51,592 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:51,625 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103451_20250423_103451.json
+2025-04-23 10:34:51,660 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103451_20250423_103451.jpg
+2025-04-23 10:34:52,052 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:52,158 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:52,159 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103452.jpg
+2025-04-23 10:34:52,175 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:52,176 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:52,178 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103452_20250423_103452.json
+2025-04-23 10:34:52,193 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103452_20250423_103452.jpg
+2025-04-23 10:34:52,488 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:52,569 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:52,570 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103452.jpg
+2025-04-23 10:34:52,585 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:52,586 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:52,587 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103452_20250423_103452.json
+2025-04-23 10:34:52,604 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103452_20250423_103452.jpg
+2025-04-23 10:34:52,968 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:53,046 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:53,046 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103453.jpg
+2025-04-23 10:34:53,062 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:53,062 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:53,064 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103453_20250423_103453.json
+2025-04-23 10:34:53,078 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103453_20250423_103453.jpg
+2025-04-23 10:34:53,496 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:53,585 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:53,586 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103453.jpg
+2025-04-23 10:34:53,604 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:53,606 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:53,608 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103453_20250423_103453.json
+2025-04-23 10:34:53,624 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103453_20250423_103453.jpg
+2025-04-23 10:34:53,984 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:54,093 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:54,097 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103454.jpg
+2025-04-23 10:34:54,120 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:54,121 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:54,122 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103454_20250423_103454.json
+2025-04-23 10:34:54,142 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103454_20250423_103454.jpg
+2025-04-23 10:34:54,469 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:54,556 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:54,558 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103454.jpg
+2025-04-23 10:34:54,573 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:54,574 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:54,583 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103454_20250423_103454.json
+2025-04-23 10:34:54,601 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103454_20250423_103454.jpg
+2025-04-23 10:34:54,984 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:55,053 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:55,054 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103455.jpg
+2025-04-23 10:34:55,069 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:55,070 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:55,072 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103455_20250423_103455.json
+2025-04-23 10:34:55,089 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103455_20250423_103455.jpg
+2025-04-23 10:34:55,538 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:55,656 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:55,656 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103455.jpg
+2025-04-23 10:34:55,674 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:55,676 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:55,678 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103455_20250423_103455.json
+2025-04-23 10:34:55,693 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103455_20250423_103455.jpg
+2025-04-23 10:34:56,046 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:56,140 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:56,141 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103456.jpg
+2025-04-23 10:34:56,158 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:56,158 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:56,160 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103456_20250423_103456.json
+2025-04-23 10:34:56,176 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103456_20250423_103456.jpg
+2025-04-23 10:34:56,545 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:56,650 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:56,651 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103456.jpg
+2025-04-23 10:34:56,692 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:56,693 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:56,695 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103456_20250423_103456.json
+2025-04-23 10:34:56,711 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103456_20250423_103456.jpg
+2025-04-23 10:34:57,045 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:57,116 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:57,161 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103457.jpg
+2025-04-23 10:34:57,267 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:57,291 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:57,295 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103457_20250423_103457.json
+2025-04-23 10:34:57,313 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103457_20250423_103457.jpg
+2025-04-23 10:34:57,638 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:57,714 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:57,716 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103457.jpg
+2025-04-23 10:34:57,734 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:57,737 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:57,739 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103457_20250423_103457.json
+2025-04-23 10:34:57,757 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103457_20250423_103457.jpg
+2025-04-23 10:34:58,229 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:58,307 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:58,314 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103458.jpg
+2025-04-23 10:34:58,353 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:58,354 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:58,356 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103458_20250423_103458.json
+2025-04-23 10:34:58,372 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103458_20250423_103458.jpg
+2025-04-23 10:34:58,706 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:58,827 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:58,828 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103458.jpg
+2025-04-23 10:34:58,847 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:58,848 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:58,851 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103458_20250423_103458.json
+2025-04-23 10:34:58,868 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103458_20250423_103458.jpg
+2025-04-23 10:34:59,200 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:59,336 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:59,342 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103459.jpg
+2025-04-23 10:34:59,401 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:59,406 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:59,416 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103459_20250423_103459.json
+2025-04-23 10:34:59,434 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103459_20250423_103459.jpg
+2025-04-23 10:34:59,749 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:34:59,859 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:34:59,862 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103459.jpg
+2025-04-23 10:34:59,902 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:59,903 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:34:59,906 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103459_20250423_103459.json
+2025-04-23 10:34:59,921 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103459_20250423_103459.jpg
+2025-04-23 10:35:00,226 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:00,347 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:00,347 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103500.jpg
+2025-04-23 10:35:00,371 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:00,372 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:00,374 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103500_20250423_103500.json
+2025-04-23 10:35:00,390 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103500_20250423_103500.jpg
+2025-04-23 10:35:00,723 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:00,828 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:00,831 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103500.jpg
+2025-04-23 10:35:00,848 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:00,848 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:00,850 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103500_20250423_103500.json
+2025-04-23 10:35:00,870 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103500_20250423_103500.jpg
+2025-04-23 10:35:01,223 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:01,333 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:01,334 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103501.jpg
+2025-04-23 10:35:01,359 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:01,362 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:01,365 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103501_20250423_103501.json
+2025-04-23 10:35:01,387 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103501_20250423_103501.jpg
+2025-04-23 10:35:01,766 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:01,871 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:01,871 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103501.jpg
+2025-04-23 10:35:01,895 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:01,895 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:01,897 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103501_20250423_103501.json
+2025-04-23 10:35:01,912 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103501_20250423_103501.jpg
+2025-04-23 10:35:02,369 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:02,544 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:02,545 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103502.jpg
+2025-04-23 10:35:02,563 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:02,564 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:02,577 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103502_20250423_103502.json
+2025-04-23 10:35:02,614 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103502_20250423_103502.jpg
+2025-04-23 10:35:02,971 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:03,167 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:03,168 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103503.jpg
+2025-04-23 10:35:03,189 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:03,191 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:03,200 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103503_20250423_103503.json
+2025-04-23 10:35:03,229 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103503_20250423_103503.jpg
+2025-04-23 10:35:03,559 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:03,707 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:03,708 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103503.jpg
+2025-04-23 10:35:03,738 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:03,739 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:03,742 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103503_20250423_103503.json
+2025-04-23 10:35:03,766 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103503_20250423_103503.jpg
+2025-04-23 10:35:04,334 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:04,675 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:04,676 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103504.jpg
+2025-04-23 10:35:04,691 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:04,692 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:04,694 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103504_20250423_103504.json
+2025-04-23 10:35:04,712 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103504_20250423_103504.jpg
+2025-04-23 10:35:05,041 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:05,175 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:05,176 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103505.jpg
+2025-04-23 10:35:05,196 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:05,197 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:05,200 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103505_20250423_103505.json
+2025-04-23 10:35:05,224 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103505_20250423_103505.jpg
+2025-04-23 10:35:05,542 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:05,692 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:05,692 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103505.jpg
+2025-04-23 10:35:05,706 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:05,707 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:05,709 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103505_20250423_103505.json
+2025-04-23 10:35:05,724 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103505_20250423_103505.jpg
+2025-04-23 10:35:06,028 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:06,132 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:06,133 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103506.jpg
+2025-04-23 10:35:06,149 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:06,150 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:06,152 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103506_20250423_103506.json
+2025-04-23 10:35:06,176 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103506_20250423_103506.jpg
+2025-04-23 10:35:06,646 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:06,741 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:06,741 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103506.jpg
+2025-04-23 10:35:06,757 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:06,758 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:06,760 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103506_20250423_103506.json
+2025-04-23 10:35:06,779 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103506_20250423_103506.jpg
+2025-04-23 10:35:07,111 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:07,201 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:07,202 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103507.jpg
+2025-04-23 10:35:07,218 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:07,221 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:07,227 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103507_20250423_103507.json
+2025-04-23 10:35:07,270 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103507_20250423_103507.jpg
+2025-04-23 10:35:07,588 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:07,777 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:07,837 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103507.jpg
+2025-04-23 10:35:07,931 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:07,934 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:07,943 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103507_20250423_103507.json
+2025-04-23 10:35:07,967 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103507_20250423_103507.jpg
+2025-04-23 10:35:08,331 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:08,427 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:08,428 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103508.jpg
+2025-04-23 10:35:08,444 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:08,445 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:08,446 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103508_20250423_103508.json
+2025-04-23 10:35:08,470 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103508_20250423_103508.jpg
+2025-04-23 10:35:08,853 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:09,090 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:09,092 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103509.jpg
+2025-04-23 10:35:09,123 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:09,124 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:09,127 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103509_20250423_103509.json
+2025-04-23 10:35:09,149 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103509_20250423_103509.jpg
+2025-04-23 10:35:09,491 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:09,660 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:09,667 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103509.jpg
+2025-04-23 10:35:09,718 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:09,719 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:09,722 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103509_20250423_103509.json
+2025-04-23 10:35:09,743 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103509_20250423_103509.jpg
+2025-04-23 10:35:10,039 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:10,125 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:10,131 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103510.jpg
+2025-04-23 10:35:10,166 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:10,167 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:10,171 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103510_20250423_103510.json
+2025-04-23 10:35:10,201 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103510_20250423_103510.jpg
+2025-04-23 10:35:10,539 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:10,670 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:10,671 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103510.jpg
+2025-04-23 10:35:10,704 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:10,706 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:10,709 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103510_20250423_103510.json
+2025-04-23 10:35:10,731 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103510_20250423_103510.jpg
+2025-04-23 10:35:11,052 - msproject_realtime - INFO - Running detection on Microsoft Project window
+2025-04-23 10:35:11,344 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 10:35:11,369 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_103511.jpg
+2025-04-23 10:35:11,434 - msproject_realtime - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:11,439 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 10:35:11,446 - msproject_realtime - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103511_20250423_103511.json
+2025-04-23 10:35:11,484 - msproject_realtime - INFO - Highlighted image saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\msproject_realtime_20250423_103511_20250423_103511.jpg

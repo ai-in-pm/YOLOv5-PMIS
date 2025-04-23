@@ -1,0 +1,101 @@
+2025-04-23 09:14:42,685 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 09:14:42,699 - multi_source_detector - INFO - Microsoft Project detector imported successfully
+2025-04-23 09:14:42,724 - multi_source_detector - INFO - Primavera P6 detector imported successfully
+2025-04-23 09:14:42,725 - multi_source_detector - INFO - OCR utilities imported successfully
+2025-04-23 09:14:42,730 - multi_source_detector - ERROR - Error: expected str, bytes or os.PathLike object, not NoneType
+Traceback (most recent call last):
+  File "C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\multi_source_detector.py", line 696, in main
+    detector = MultiSourceDetector(
+        app_type=args.app,
+    ...<4 lines>...
+        use_ocr=not args.no_ocr
+    )
+  File "C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\multi_source_detector.py", line 86, in __init__
+    self._initialize_detector()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\multi_source_detector.py", line 104, in _initialize_detector
+    self.detector = MSProjectDetector(
+                    ~~~~~~~~~~~~~~~~~^
+        model_path=self.model_path,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        tesseract_path=self.tesseract_path
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\msproject\msproject_detector.py", line 47, in __init__
+    if not os.path.isabs(model_path):
+           ~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "<frozen ntpath>", line 82, in isabs
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+2025-04-23 09:21:16,640 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 09:21:16,650 - multi_source_detector - INFO - Microsoft Project detector imported successfully
+2025-04-23 09:21:16,674 - multi_source_detector - INFO - Primavera P6 detector imported successfully
+2025-04-23 09:21:16,675 - multi_source_detector - INFO - OCR utilities imported successfully
+2025-04-23 09:21:16,679 - multi_source_detector - INFO - Using default model path: msproject_model.pt
+2025-04-23 09:21:16,680 - msproject_detector - WARNING - Specialized model not found, using yolov5s.pt instead.
+2025-04-23 09:21:21,712 - pm_integration - INFO - Model initialized: C:\CC-WorkingDir\yolov5-master\yolov5-master\yolov5s.pt
+2025-04-23 09:21:21,730 - ocr_utils - WARNING - Tesseract is installed but not working properly: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-23 09:21:21,731 - msproject_detector - INFO - OCR processor initialized
+2025-04-23 09:21:21,731 - multi_source_detector - INFO - Microsoft Project detector initialized
+2025-04-23 09:21:21,732 - multi_source_detector - ERROR - Image file not found: msproject_screenshot.jpg
+2025-04-23 09:21:21,733 - multi_source_detector - ERROR - Detection failed
+2025-04-23 09:24:35,742 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 09:24:35,759 - multi_source_detector - INFO - Microsoft Project detector imported successfully
+2025-04-23 09:24:35,782 - multi_source_detector - INFO - Primavera P6 detector imported successfully
+2025-04-23 09:24:35,782 - multi_source_detector - INFO - OCR utilities imported successfully
+2025-04-23 09:24:35,794 - multi_source_detector - INFO - Using default model path: msproject_model.pt
+2025-04-23 09:24:35,796 - msproject_detector - WARNING - Specialized model not found, using yolov5s.pt instead.
+2025-04-23 09:24:42,104 - pm_integration - INFO - Model initialized: C:\CC-WorkingDir\yolov5-master\yolov5-master\yolov5s.pt
+2025-04-23 09:24:42,129 - ocr_utils - WARNING - Tesseract is installed but not working properly: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-23 09:24:42,133 - msproject_detector - INFO - OCR processor initialized
+2025-04-23 09:24:42,135 - multi_source_detector - INFO - Microsoft Project detector initialized
+2025-04-23 09:24:42,137 - multi_source_detector - INFO - Using sample image: C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\sample_images\msproject_screenshot.jpg
+2025-04-23 09:24:42,146 - multi_source_detector - INFO - Loading image from C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\sample_images\msproject_screenshot.jpg
+2025-04-23 09:24:42,328 - multi_source_detector - INFO - Running detection on image
+2025-04-23 09:24:42,517 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:24:42,532 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_092442.jpg
+2025-04-23 09:24:42,559 - multi_source_detector - INFO - Applying OCR to detected elements...
+2025-04-23 09:24:42,571 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:24:42,577 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:24:42,583 - multi_source_detector - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\image_msproject_screenshot_20250423_092442.json
+2025-04-23 09:24:42,600 - multi_source_detector - INFO - Detection completed with 0 elements
+2025-04-23 09:29:53,506 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 09:29:53,519 - multi_source_detector - INFO - Microsoft Project detector imported successfully
+2025-04-23 09:29:53,536 - multi_source_detector - INFO - Primavera P6 detector imported successfully
+2025-04-23 09:29:53,536 - multi_source_detector - INFO - OCR utilities imported successfully
+2025-04-23 09:29:53,540 - multi_source_detector - INFO - Using default model path: primavera_model.pt
+2025-04-23 09:29:53,540 - primavera_detector - WARNING - Specialized model not found, using yolov5s.pt instead.
+2025-04-23 09:29:56,825 - pm_integration - INFO - Model initialized: C:\CC-WorkingDir\yolov5-master\yolov5-master\yolov5s.pt
+2025-04-23 09:29:56,835 - ocr_utils - WARNING - Tesseract is installed but not working properly: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-23 09:29:56,835 - primavera_detector - INFO - OCR processor initialized
+2025-04-23 09:29:56,836 - multi_source_detector - INFO - Primavera P6 detector initialized
+2025-04-23 09:29:56,837 - multi_source_detector - INFO - Using default sample image for primavera: C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\sample_images\primavera_screenshot.jpg
+2025-04-23 09:29:56,838 - multi_source_detector - INFO - Loading image from C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\sample_images\primavera_screenshot.jpg
+2025-04-23 09:29:56,844 - multi_source_detector - INFO - Running detection on image
+2025-04-23 09:29:56,928 - pm_integration - INFO - Detected 0 objects in Primavera P6
+2025-04-23 09:29:56,928 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\primavera\primavera_detection_20250423_092956.jpg
+2025-04-23 09:29:56,941 - multi_source_detector - INFO - Applying OCR to detected elements...
+2025-04-23 09:29:56,942 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:29:56,943 - multi_source_detector - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\image_primavera_screenshot_20250423_092956.json
+2025-04-23 09:29:56,944 - multi_source_detector - INFO - Detection completed with 0 elements
+2025-04-23 09:38:30,596 - pm_integration - INFO - YOLOv5 modules imported successfully
+2025-04-23 09:38:30,611 - multi_source_detector - INFO - Microsoft Project detector imported successfully
+2025-04-23 09:38:30,637 - multi_source_detector - INFO - Primavera P6 detector imported successfully
+2025-04-23 09:38:30,637 - multi_source_detector - INFO - OCR utilities imported successfully
+2025-04-23 09:38:30,642 - multi_source_detector - INFO - Using default model path: msproject_model.pt
+2025-04-23 09:38:30,643 - msproject_detector - WARNING - Specialized model not found, using yolov5s.pt instead.
+2025-04-23 09:38:41,572 - pm_integration - INFO - Model initialized: C:\CC-WorkingDir\yolov5-master\yolov5-master\yolov5s.pt
+2025-04-23 09:38:41,595 - ocr_utils - WARNING - Tesseract is installed but not working properly: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-23 09:38:41,596 - msproject_detector - INFO - OCR processor initialized
+2025-04-23 09:38:41,596 - multi_source_detector - INFO - Microsoft Project detector initialized
+2025-04-23 09:38:41,598 - multi_source_detector - INFO - Using sample image: C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\sample_images\msproject_screenshot.jpg
+2025-04-23 09:38:41,599 - multi_source_detector - INFO - Loading image from C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\sample_images\msproject_screenshot.jpg
+2025-04-23 09:38:41,606 - multi_source_detector - INFO - Running detection on image
+2025-04-23 09:38:41,711 - pm_integration - INFO - Detected 0 objects in Microsoft Project
+2025-04-23 09:38:41,711 - pm_integration - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\results\msproject\msproject_detection_20250423_093841.jpg
+2025-04-23 09:38:41,723 - multi_source_detector - INFO - Applying OCR to detected elements...
+2025-04-23 09:38:41,723 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:38:41,724 - ocr_utils - WARNING - Tesseract OCR not available. Cannot process detections.
+2025-04-23 09:38:41,726 - multi_source_detector - INFO - Results saved to C:\CC-WorkingDir\yolov5-master\yolo_projects\integrations\results\image_msproject_screenshot_20250423_093841.json
+2025-04-23 09:38:41,727 - multi_source_detector - INFO - Detection completed with 0 elements

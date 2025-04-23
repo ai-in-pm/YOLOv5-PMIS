@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/office/project/server/2010/03/PSI">
+  <Tasks>
+    <Task ID="1">
+      <Name>Task 1</Name>
+      <Start>2025-04-22T09:00:00</Start>
+      <Finish>2025-04-22T17:00:00</Finish>
+      <Duration>8h</Duration>
+      <Status>Not Started</Status>
+    </Task>
+    <Task ID="2">
+      <Name>Task 2</Name>
+      <Start>2025-04-23T09:00:00</Start>
+      <Finish>2025-04-23T17:00:00</Finish>
+      <Duration>8h</Duration>
+      <Status>Not Started</Status>
+    </Task>
+  </Tasks>
+  <Resources>
+    <Resource ID="1">
+      <Name>Resource 1</Name>
+      <Type>Work</Type>
+      <Cost>100.00</Cost>
+      <Work>8h</Work>
+    </Resource>
+    <Resource ID="2">
+      <Name>Resource 2</Name>
+      <Type>Work</Type>
+      <Cost>150.00</Cost>
+      <Work>8h</Work>
+    </Resource>
+  </Resources>
+  <Assignments>
+    <Assignment TaskID="1" ResourceID="1">
+      <Units>100%</Units>
+      <Work>8h</Work>
+      <Cost>100.00</Cost>
+    </Assignment>
+    <Assignment TaskID="2" ResourceID="2">
+      <Units>100%</Units>
+      <Work>8h</Work>
+      <Cost>150.00</Cost>
+    </Assignment>
+  </Assignments>
+</Project>
